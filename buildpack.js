@@ -1,1 +1,1 @@
-heroku create --buildpack <https://github.com/Nazband/Nadekonne2/new/master>
+heroku create --buildpack https://github.com/ScarletKuro/nadeko-dotnetcore-buildpack.git
