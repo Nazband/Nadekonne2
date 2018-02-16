@@ -1,8 +1,8 @@
 #!/bin/sh
-clientid=""
+clientid="406833314591145985"
 botid=""
-token=""
-ownerid=""
+token="NDA2ODMzMzE0NTkxMTQ1OTg1.DU4skQ.4DeDA5OmEUh9CPtvwZW0o0ZdERg"
+ownerid="221672551196131329"
 googleapi=""
 lolapikey=""
 mashapekey=""
@@ -76,3 +76,4 @@ echo "That didn't work? Please report to ScarletKuro"
 sleep 3s
 echo "Done"
 exit 0
+
